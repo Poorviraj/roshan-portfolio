@@ -23,7 +23,7 @@ const Contact = () => {
                 whileInView={{ opacity: 1, y: 0 }}
                 transition={{ duration: 0.6, delay: 0.3 }}
             >
-                <p className="some-class">+91 8209302677</p>
+                <p className="some-class">+91 8949237222</p>
                 <motion.a 
                     href="#" 
                     className="border-b"
